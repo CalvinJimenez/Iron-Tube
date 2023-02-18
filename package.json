@@ -1,0 +1,20 @@
+{
+"name": "irontube"
+
+,
+
+"description": "Project Outer package.json - Will Include Heroku Scripts Later"
+
+,
+
+"engines": {"node": "16.x"}
+
+,
+"scripts": {
+
+
+    "start": "npm start --prefix client"
+
+}
+
+}
