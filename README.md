@@ -1,1 +1,1 @@
-A YouTube clone made by Calvin Jimenez. Done as a final project for my bootcamp at Flatiron School and implements what I learned including Ruby on Rails and ReactJS.
+A YouTube clone made by Calvin Jimenez. Done as a final project for my bootcamp at Flatiron School and implements what I learned including Ruby on Rails and ReactJS. Includes a CRUD functionality among other features.
